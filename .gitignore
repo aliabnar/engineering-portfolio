@@ -1,0 +1,23 @@
+# Local tooling
+__pycache__/
+*.pyc
+.DS_Store
+
+# Keep operational material out of a portfolio repository
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.sql
+*.dump
+*.bak
+*.zip
+*.tar
+*.gz
+*.log
+private-review/
+private-sources/
+working-drafts/
+node_modules/
